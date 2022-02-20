@@ -3,11 +3,13 @@ import NewEmployee from "./pages/NewEmployee";
 import EditEmployee from "./pages/EditEmployee";
 
 /* Router */
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
+    /* Replace the BrowserRouter with HashRouter in order to deploy
+    to GitHub Pages */
+    <HashRouter>
       <div className="App container">
         <h2 className="mt-3 mb-5">Employees Administration Panel</h2>
         <Routes>
@@ -16,7 +18,7 @@ function App() {
           <Route path="addemployee/:id" element={<EditEmployee />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
