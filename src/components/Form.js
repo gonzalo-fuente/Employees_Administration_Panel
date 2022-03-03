@@ -14,7 +14,7 @@ const Form = ({
   const { name, email, address } = employee;
 
   return (
-    <div className="w-50 bg-light mx-auto mb-5 rounded p-3 shadow">
+    <div className="col-lg-6 col-md-8 bg-light mx-auto mb-5 rounded p-3 shadow">
       <h3>{children}</h3>
       {error && (
         <Error setError={setError}>
