@@ -1,6 +1,6 @@
 {
-  "name": "simple-crud-template",
-  "homepage": "https://gonzalo-fuente.github.io/Simple_CRUD_Template",
+  "name": "employees-administration-panel",
+  "homepage": "https://gonzalo-fuente.github.io/Employees_Administration_Panel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
