@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Simple_CRUD_Template/static/css/main.1a8a0596.css",
-    "main.js": "/Simple_CRUD_Template/static/js/main.6ba11591.js",
-    "index.html": "/Simple_CRUD_Template/index.html",
-    "main.1a8a0596.css.map": "/Simple_CRUD_Template/static/css/main.1a8a0596.css.map",
-    "main.6ba11591.js.map": "/Simple_CRUD_Template/static/js/main.6ba11591.js.map"
+    "main.css": "/Employees_Administration_Panel/static/css/main.1a8a0596.css",
+    "main.js": "/Employees_Administration_Panel/static/js/main.6ba11591.js",
+    "index.html": "/Employees_Administration_Panel/index.html",
+    "main.1a8a0596.css.map": "/Employees_Administration_Panel/static/css/main.1a8a0596.css.map",
+    "main.6ba11591.js.map": "/Employees_Administration_Panel/static/js/main.6ba11591.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
