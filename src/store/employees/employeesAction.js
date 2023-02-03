@@ -1,7 +1,7 @@
 /* Axios */
 import axios from "axios";
 
-const URL = "https://json-server-gonz4-web-designs.herokuapp.com/employees";
+const URL = "https://json-server-nkpf.onrender.com/employees";
 
 /* GET ALL THE EMPLOYEES */
 export const getEmployees = () => async (dispatch) => {
