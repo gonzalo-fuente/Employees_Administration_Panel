@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Employees_Administration_Panel/static/css/main.1a8a0596.css",
-    "main.js": "/Employees_Administration_Panel/static/js/main.6ba11591.js",
+    "main.js": "/Employees_Administration_Panel/static/js/main.df75d890.js",
     "index.html": "/Employees_Administration_Panel/index.html",
     "main.1a8a0596.css.map": "/Employees_Administration_Panel/static/css/main.1a8a0596.css.map",
-    "main.6ba11591.js.map": "/Employees_Administration_Panel/static/js/main.6ba11591.js.map"
+    "main.df75d890.js.map": "/Employees_Administration_Panel/static/js/main.df75d890.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.6ba11591.js"
+    "static/js/main.df75d890.js"
   ]
 }
